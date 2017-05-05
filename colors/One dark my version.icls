@@ -1,5 +1,4 @@
 <scheme name="One dark my version" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="EDITOR_FONT_NAME" value="Menlo" />
@@ -7,9 +6,9 @@
     <option name="ADDED_LINES_COLOR" value="98c379" />
     <option name="CARET_COLOR" value="528bff" />
     <option name="CARET_ROW_COLOR" value="2c323b" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="202022" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="282c34" />
     <option name="DELETED_LINES_COLOR" value="e06c75" />
-    <option name="GUTTER_BACKGROUND" value="202022" />
+    <option name="GUTTER_BACKGROUND" value="282c34" />
     <option name="INDENT_GUIDE" value="202a33" />
     <option name="LINE_NUMBERS_COLOR" value="5c6370" />
     <option name="METHOD_SEPARATORS_COLOR" value="3c3f41" />
@@ -14169,7 +14168,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="a9b7c6" />
-        <option name="BACKGROUND" value="232325" />
+        <option name="BACKGROUND" value="282c34" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
