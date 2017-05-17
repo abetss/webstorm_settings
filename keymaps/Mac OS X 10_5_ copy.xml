@@ -54,6 +54,9 @@
   </action>
   <action id="FileChooser.GotoHome" />
   <action id="FileChooser.GotoProject" />
+  <action id="Git.Rebase">
+    <keyboard-shortcut first-keystroke="shift meta a" second-keystroke="1" />
+  </action>
   <action id="Go To Last Tab">
     <keyboard-shortcut first-keystroke="alt e" />
   </action>
@@ -75,6 +78,7 @@
   <action id="Go To Tab #6">
     <keyboard-shortcut first-keystroke="meta 6" />
   </action>
+  <action id="GotoAction" />
   <action id="GotoNextBookmark">
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
