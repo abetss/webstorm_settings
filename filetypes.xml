@@ -4,6 +4,7 @@
       <mapping ext="php" type="PHP" />
       <mapping pattern="mctTooltip.scss" type="PLAIN_TEXT" />
       <mapping pattern="status_explanation.scss" type="SQL" />
+      <mapping pattern="nav-bar.component.ts" type="TypeScript" />
     </extensionMap>
   </component>
 </application>
