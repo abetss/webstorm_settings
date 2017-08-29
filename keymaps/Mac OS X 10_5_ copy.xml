@@ -163,6 +163,9 @@
     <keyboard-shortcut first-keystroke="f3" />
     <keyboard-shortcut first-keystroke="shift alt e" />
   </action>
+  <action id="ToggleInlineHintsAction">
+    <keyboard-shortcut first-keystroke="shift ctrl meta h" />
+  </action>
   <action id="Tool_External Tools_CSSComb">
     <keyboard-shortcut first-keystroke="ctrl alt c" />
   </action>
